@@ -49,3 +49,7 @@
 [user]
 	email = alec.lister@gmail.com
 	name = Alec Lister
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
