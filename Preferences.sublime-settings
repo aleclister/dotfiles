@@ -2,7 +2,8 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Colorsublime_themes/rainbow.tmTheme",
+	"detect_indentation": true,
 	"font_face": "Menlo",
 	"font_options":
 	[
@@ -32,9 +33,10 @@
 		150,
 		200
 	],
-	"theme": "Default.sublime-theme",
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"word_wrap": false
+	"word_wrap": true
 }
